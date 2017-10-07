@@ -40,7 +40,7 @@
     "webpack": "3.5.1",
     "webpack-dev-server": "2.7.1",
     "webpack-manifest-plugin": "1.2.1",
-    "wepay-react-checkout": "file:///Users/giovannib/Documents/WePay/FTS/checkout_form/wepay-react-checkout",
+    "wepay-react-checkout": "file:../wepay-react-checkout",
     "whatwg-fetch": "2.0.3"
   },
   "scripts": {
